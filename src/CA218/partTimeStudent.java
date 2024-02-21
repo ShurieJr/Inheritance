@@ -1,2 +1,4 @@
-package CA218;public class partTimeStudent {
+package CA218;
+
+public class partTimeStudent  {
 }

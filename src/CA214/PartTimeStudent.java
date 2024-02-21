@@ -1,2 +1,4 @@
-package CA214;public class PartTimeStudent {
+package CA214;
+
+public class PartTimeStudent extends Student{
 }
