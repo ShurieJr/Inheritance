@@ -7,6 +7,9 @@ public class Student extends Person{
         super(age , name); //call parent class constructor
         stdID = id;
     }
+    Student(){
+        System.out.println("Student constructor");
+    }
    public void printInfo(){
         System.out.println(stdID);
         super.display();

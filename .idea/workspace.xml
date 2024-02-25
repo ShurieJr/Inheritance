@@ -4,26 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099da286-12c2-463e-88d7-ac8600a8ccbd" name="Changes" comment="">
+    <list default="true" id="099da286-12c2-463e-88d7-ac8600a8ccbd" name="Changes" comment="ms">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA218/constructorChaining/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA218/constructorChaining/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA218/constructorChaining/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CA218/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Fculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Fculty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/ConstructorChaining/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/PartTimeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/PartTimeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA214/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA214/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA215/FullTimeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA215/FullTimeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA215/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA215/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA215/PartTimeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA215/PartTimeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA215/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA215/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA215/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA215/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA218/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA218/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CA218/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA218/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CA218/fullTimeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA218/fullTimeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CA218/partTimeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA218/partTimeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CA218/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +46,12 @@
     "Application.CA214.ConstructorChaining.Main.executor": "Run",
     "Application.CA214.Main.executor": "Run",
     "Application.CA215.Main.executor": "Run",
+    "Application.Faculty.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
@@ -66,7 +59,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CA215.Main">
+  <component name="RunManager" selected="Application.Faculty">
     <configuration name="CA214.ConstructorChaining.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CA214.ConstructorChaining.Main" />
       <module name="Inheritance" />
@@ -106,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Faculty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CA218.constructorChaining.Faculty" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CA218.constructorChaining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="CA218.Main" />
       <module name="Inheritance" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Faculty" />
         <item itemvalue="Application.CA215.Main" />
         <item itemvalue="Application.CA214.ConstructorChaining.Main" />
         <item itemvalue="Application.CA214.Main" />
@@ -139,6 +146,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708254190103</updated>
     </task>
+    <task id="LOCAL-00001" summary="ms">
+      <option name="closed" value="true" />
+      <created>1708499810551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708499810552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ms" />
+    <option name="LAST_COMMIT_MESSAGE" value="ms" />
   </component>
 </project>
