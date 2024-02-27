@@ -1,7 +1,8 @@
 package CA218.constructorChaining;
 
-public class Faculty extends Employee{
+import CA218.Polymorphism.Polymorpshim;
 
+public class Faculty{
     Faculty(){
         System.out.println("Faculty constructor!");
     }
@@ -9,6 +10,6 @@ public class Faculty extends Employee{
 
     //main method
     public static void main(String[] args) {
-        new Faculty();
+
     }
 }
