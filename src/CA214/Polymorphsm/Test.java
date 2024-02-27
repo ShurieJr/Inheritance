@@ -14,7 +14,7 @@ public class Test {
     }
 
     //methods
-    public void display(){
+   public void display(){
         System.out.println("age: " + age);
     }
 //overloading   methods
